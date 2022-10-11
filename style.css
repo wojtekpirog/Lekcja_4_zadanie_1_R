@@ -28,3 +28,6 @@ a:hover {
   background-color: lightgray;
   color:rgb(60, 60, 60);
 }
+.bold {
+  font-weight: bold;
+}
